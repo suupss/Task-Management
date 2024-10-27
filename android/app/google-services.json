@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288118897213",
+    "project_id": "task-management-163e6",
+    "storage_bucket": "task-management-163e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288118897213:android:7db5df3351f623ef5d0854",
+        "android_client_info": {
+          "package_name": "com.supriya.task_mgmt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cJj7Kdj01tSUKaZ_DV_iJHqQsYcuL2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
